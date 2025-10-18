@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Designers MeetUp 2025</title>
+  <link rel="stylesheet" href="ideaya_style.css">
+</head>
+<body>
+
+  <!-- ヘッダー -->
+  <header class="header">
+    <div class="container">
+      <h1 class="logo">アイデア屋</h1>
+      <nav class="nav">
+        <a href="#about">イベント概要</a>
+        <a href="#schedule">スケジュール</a>
+        <a href="#speakers">登壇者</a>
+        <a href="#contact">参加申込</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h2>デザイナーのための交流イベント</h2>
+    <p>クリエイティブの未来を語ろう。<br>デザイナーと繋がるチャンス！</p>
+    <a href="#contact" class="btn">今すぐ参加登録</a>
+  </section>
+
+  <!-- イベント概要 -->
+  <section id="about" class="section">
+    <div class="container">
+      <h3 class="section-title">イベント概要</h3>
+      <p>
+        アイデア屋はクリエイターと企業をつなげるためのイベントを企画します
+      </p>
+      <ul class="info-list">
+        <li>日時：</li>
+        <li>会場：</li>
+        <li>参加費：無料（要事前登録）</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- スケジュール -->
+  <section id="schedule" class="section gray-bg">
+    <div class="container">
+      <h3 class="section-title">スケジュール</h3>
+      <div class="schedule-grid">
+        <div class="card">
+          <h4></h4>
+          <p></p>
+        </div>
+        <div class="card">
+          <h4></h4>
+          <p></p>
+        </div>
+        <div class="card">
+          <h4></h4>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 登壇者紹介 -->
+  <section id="speakers" class="section">
+    <div class="container">
+      <h3 class="section-title">登壇者紹介</h3>
+      <div class="speaker-grid">
+        <div class="speaker-card">
+          <img src="https://via.placeholder.com/150" alt="speaker1">
+          <h4></h4>
+          <p></p>
+        </div>
+        <div class="speaker-card">
+          <img src="https://via.placeholder.com/150" alt="speaker2">
+          <h4></h4>
+          <p></p>
+        </div>
+        <div class="speaker-card">
+          <img src="https://via.placeholder.com/150" alt="speaker3">
+          <h4></h4>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 参加申込 -->
+  <section id="contact" class="section contact">
+    <h3>参加登録はこちら</h3>
+    <p>フォームに必要事項を入力して送信してください。</p>
+    <a href="https://forms.gle/FZyGZGYP8yBi6bHP8" target="_blank" class="btn white">Googleフォームで登録</a>
+  </section>
+
+  <!-- フッター -->
+  <footer class="footer">
+    <p>&copy; 2025 Designers MeetUp. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
